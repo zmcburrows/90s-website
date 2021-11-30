@@ -1,0 +1,29 @@
+body{
+    background: url("romeo.webp");
+    color: rgb(241, 241, 241);
+    font-family: monospace;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-size:50px
+}
+
+ul{
+    font-size: 30px;
+}
+
+blockquote{
+    font-size: 25px;
+}
+
+p{
+    font-size: 25px;
+}
+.center-me{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}

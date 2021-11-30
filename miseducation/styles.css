@@ -1,0 +1,19 @@
+body{
+    background: url("miseducation.gif");
+    background-size: cover;
+    color: white;
+    font-family: monospace;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+blockquote {
+    font-size: 20px;
+}
+
+ul{
+    font-size: 25px;
+}

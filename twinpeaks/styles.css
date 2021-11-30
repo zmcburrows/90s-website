@@ -1,0 +1,23 @@
+body{
+    background: url("Red_room.webp");
+    color: white;
+    font-family: monospace;
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(93, 93, 209)
+}
+
+ul{
+    font-size: 30px;
+}
+
+blockquote{
+    font-size: 25px;
+}
+
+p{
+    font-size: 25px;
+}
